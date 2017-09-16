@@ -1,5 +1,5 @@
 ## How to run :
-python main.py https://www.pnc.com/en/personal-banking.html
+python main.py http://viper-seo.com/
 
 ## Contact:
 Please contact at sudipto.pathak@gmail.com for questions and queries. More updates to come in near future.
